@@ -16,7 +16,7 @@ Guide user to generate high-quality READMe for open source project on Github. Th
 * [License](#license)
 
 
-* [Contributors](#contributors)
+* [Contributing](#contributing)
 
 * [Tests](#tests)
 
