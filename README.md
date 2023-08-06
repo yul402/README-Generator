@@ -32,13 +32,10 @@ To install dependencies, run these commands:
 npm install
 ```
 
-## Demonstration
-Pleas check video demonstration at: https://watch.screencastify.com/v/bJBJjQPZiMpjK5KAa6e0
-
 ## Usage
-
 Dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
+Pleas check video demonstration at: https://watch.screencastify.com/v/bJBJjQPZiMpjK5KAa6e0
 
 ## License
 
