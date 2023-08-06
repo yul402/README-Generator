@@ -16,7 +16,7 @@ ${data.description}
 
 ${renderLicenseLink(data.license)}
 
-* [Contributors](#contributors)
+* [Contributing](#contributing)
 
 * [Tests](#tests)
 
@@ -61,6 +61,7 @@ ${data.test}
 
 ## Questions
 This project is contributed by [${data.github}](https://github.com/${data.github}/)
+
 Contact infotmation: ${data.email}
 `;
 }
